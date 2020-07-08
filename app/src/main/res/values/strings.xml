@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Lana</string>
+    <string name="yellow_star">it\'s a yellow star</string>
+    <string name="bio_text_desc">I love a long strokes on my head, \n I love cat food, much more than chicken. \n I get shocked all the time. I am a fast runner.</string>
+    <string name="your_nickname">What\'s your nickname?</string>
+    <string name="done_button">Submit</string>
+</resources>
